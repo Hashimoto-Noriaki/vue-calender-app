@@ -13,5 +13,10 @@ export default defineComponent({
 </script>
 
 <style scoped>
-/* コンポーネント固有のスタイルもここに記述可能 */
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  text-decoration: underline;
+  color: #333;
+}
 </style>
